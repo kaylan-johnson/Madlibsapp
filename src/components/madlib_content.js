@@ -1,3 +1,4 @@
+
 import React, { Component } from 'react';
 
 class MadlibContent extends Component {
@@ -13,5 +14,5 @@ class MadlibContent extends Component {
     }
 }
 
+export default MadlibContent; 
 
-export default MadlibContent;
